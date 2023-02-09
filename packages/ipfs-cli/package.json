@@ -103,7 +103,7 @@
     "@types/get-folder-size": "^3.0.1",
     "@types/ncp": "^2.0.5",
     "@types/progress": "^2.0.3",
-    "@types/rimraf": "^3.0.1",
+    "@types/rimraf": "^4.0.5",
     "@types/yargs": "^17.0.10",
     "aegir": "^37.11.0",
     "ipfs-repo": "^17.0.0",
